@@ -8,7 +8,7 @@ class Strat < Formula
   bottle :unneeded
 
   def install
-    bin.install "strat/strat"
+    bin.install "strat"
   end
 
   test do
