@@ -1,4 +1,4 @@
-class Consul < Formula
+class Strat < Formula
   desc "Stratumn's SDK to create Indigo applications and networks"
   homepage "https://stratumn.com"
   url "https://github.com/stratumn/sdk/releases/download/v0.0.7-dev/strat-darwin-amd64.zip", :using => :curl
