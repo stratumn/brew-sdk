@@ -16,8 +16,8 @@ class Strat < Formula
   end
 
   devel do
-    url "https://github.com/stratumn/sdk/releases/download/v0.1.0-dev/strat-darwin-amd64.zip"
-    version "v0.1.0-dev"
-    sha256 "a48a0d85e9d8a6ccd77f9d1fb62feb9734338fb2927bc1f9913d931dd807ad85"
+    url "https://github.com/stratumn/sdk/releases/download/v0.1.0-rc1/strat-darwin-amd64.zip"
+    version "v0.1.0-rc1"
+    sha256 "1b24fe85851c7ba1a95db066c1f6a8d15b0763413c4d1f10958d762f56447537"
   end
 end
