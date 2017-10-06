@@ -3,7 +3,7 @@ class Strat < Formula
   homepage "https://stratumn.com"
   url "https://github.com/stratumn/sdk/releases/download/v0.1.0/strat-darwin-amd64.zip"
   version "v0.1.0"
-  sha256 " 47168ef3e77fee813807572837a58d3349ac58bf68ee210df7b7acd072fdae10"
+  sha256 "47168ef3e77fee813807572837a58d3349ac58bf68ee210df7b7acd072fdae10"
 
   bottle :unneeded
 
