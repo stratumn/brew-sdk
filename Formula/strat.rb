@@ -1,9 +1,9 @@
 class Strat < Formula
   desc "Stratumn's SDK to create Indigo applications and networks"
   homepage "https://stratumn.com"
-  url "https://github.com/stratumn/sdk/releases/download/v0.2.0/strat-darwin-amd64.zip"
-  version "v0.2.0"
-  sha256 "188c3d7bff18024eb6547b7ed7af176fb634297163695a55f795fdeb3cbbb1c5"
+  url "https://github.com/stratumn/sdk/releases/download/v0.3.0/strat-darwin-amd64.zip"
+  version "v0.3.0"
+  sha256 "2b9e11bcdca2768989b81be624a57c917149d3cf4971927b0561da5465cde2e3"
 
   bottle :unneeded
 
@@ -16,8 +16,8 @@ class Strat < Formula
   end
 
   devel do
-    url "https://github.com/stratumn/sdk/releases/download/v0.2.0/strat-darwin-amd64.zip"
-    version "v0.2.0"
-    sha256 "188c3d7bff18024eb6547b7ed7af176fb634297163695a55f795fdeb3cbbb1c5"
+    url "https://github.com/stratumn/sdk/releases/download/v0.3.0/strat-darwin-amd64.zip"
+    version "v0.3.0"
+    sha256 "2b9e11bcdca2768989b81be624a57c917149d3cf4971927b0561da5465cde2e3"
   end
 end
